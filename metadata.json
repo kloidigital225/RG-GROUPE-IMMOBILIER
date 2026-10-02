@@ -1,0 +1,6 @@
+{
+  "name": "R&G GROUPE IMMOBILIER — Concept Digital",
+  "description": "Concept de modernisation digitale pour R&G GROUPE IMMOBILIER à Abidjan, préparé par KLOI DIGITAL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
