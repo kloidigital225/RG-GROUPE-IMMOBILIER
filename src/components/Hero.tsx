@@ -9,7 +9,7 @@ export default function Hero({ onDiscoverProperties, onExploreExpertise }: HeroP
       {/* Background Hero Image with Slow Ken-Burns / Gentle Zoom */}
       <div className="absolute inset-0 z-0 overflow-hidden">
         <img
-          src="/src/assets/images/hero_abidjan_villa_1790947295686.jpg"
+          src="/images/hero_abidjan_villa_1790947295686.jpg"
           alt="Architecture résidentielle contemporaine à Abidjan (Visuel conceptuel)"
           className="w-full h-full object-cover object-center scale-100 animate-[pulse_10s_ease-in-out_infinite] motion-safe:transition-transform motion-safe:duration-1000 motion-safe:ease-out"
           referrerPolicy="no-referrer"
