@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, Cambria, serif;
+  --font-sans: "Space Grotesk", system-ui, -apple-system, sans-serif;
+  --color-noir: #111111;
+  --color-creme: #F7F6F2;
+  --color-sable: #C8B79C;
+  --color-pierre: #8A8882;
+}
+
+:root {
+  --color-bg: #F7F6F2;
+  --color-fg: #111111;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background-color: rgba(200, 183, 156, 0.35);
+  color: #111111;
+}
