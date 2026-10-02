@@ -8,7 +8,7 @@ export default function Immersion({ onOpenContact }: ImmersionProps) {
       {/* Background Architectural Visual */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/immersion_archi_1790947344417.jpg"
+          src="/images/immersion_archi_1790947344417.jpg"
           alt="Immersion architecturale contemporaine"
           className="w-full h-full object-cover object-center scale-105 transition-transform duration-1000 ease-out"
           referrerPolicy="no-referrer"

@@ -7,7 +7,7 @@ export const PROPERTIES: PropertyItem[] = [
     category: 'Architecture résidentielle',
     location: 'Abidjan',
     status: 'Concept',
-    image: '/src/assets/images/prop_villa_contemp_1790947309438.jpg',
+    image: '/images/prop_villa_contemp_1790947309438.jpg',
     description: 'Une étude architecturale axée sur la pureté des lignes, la fluidité des volumes intérieurs et extérieurs, et une intégration paysagère tropicale soignée.',
     features: [
       'Conception bioclimatique adaptée au climat ivoirien',
@@ -24,7 +24,7 @@ export const PROPERTIES: PropertyItem[] = [
     category: 'Résidence de standing',
     location: 'Cocody',
     status: 'Concept',
-    image: '/src/assets/images/prop_apt_cocody_1790947322159.jpg',
+    image: '/images/prop_apt_cocody_1790947322159.jpg',
     description: 'Proposition d\'aménagement pour un appartement de grand confort situé au cœur de Cocody, alliant lumière naturelle zénithale et finitions artisanales raffinées.',
     features: [
       'Hauteur sous plafond généreuse',
@@ -41,7 +41,7 @@ export const PROPERTIES: PropertyItem[] = [
     category: 'Ensemble résidentiel',
     location: 'Riviera',
     status: 'Concept',
-    image: '/src/assets/images/prop_res_riviera_1790947333708.jpg',
+    image: '/images/prop_res_riviera_1790947333708.jpg',
     description: 'Vision d\'une résidence collective moderne conjuguant intimité privée, espaces de convivialité partagés et performance énergétique durable.',
     features: [
       'Façade architecturale à brise-soleil en terre cuite',

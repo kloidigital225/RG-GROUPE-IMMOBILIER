@@ -7,7 +7,7 @@ export default function About() {
           <div className="lg:col-span-6">
             <div className="relative aspect-[4/3] w-full overflow-hidden bg-[#111111]/10">
               <img
-                src="/src/assets/images/about_archi_west_1790947354958.jpg"
+                src="/images/about_archi_west_1790947354958.jpg"
                 alt="Architecture contemporaine ouest-africaine à Abidjan"
                 className="w-full h-full object-cover object-center transition-transform duration-700 hover:scale-103"
                 referrerPolicy="no-referrer"
